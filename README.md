@@ -1,13 +1,18 @@
 <div class="text border">
-  <h1>What is Gungi?</h1>
+  <h1>What is <a href='https://gungi.picinfiniti.net' target="blank">Gungi</a>?</h1>
   <p>
     Gungi is a two-player strategy board game created by Yoshihiro Togashi and is featured in the in the popular manga
     <a href="https://hunterxhunter.fandom.com/wiki/Hunter_%C3%97_Hunter" class="sc-dQppl cQZIoF">Hunter x Hunter</a>.
     It is played on a non-checkered game board with 81 squares arranged in a 9x9 grid. At the beginning of the game,
     players can choose how their pieces will be arranged on their side of the board.
-    Additionally, unlike its spiritual brethren, chess, shogi, and go, in Gungi pieces can be stacked on top of each
-    other, adding a third dimension to the game leading to billions and billions of possibilities. As in chess and
-    shogi, the goal is to trap the king.
+    Additionally, unlike its spiritual brethren, Chess, Shogi, and Go, in Gungi pieces can be stacked on top of each
+    other, adding a third dimension to the game leading to billions and billions of possibilities. As in Chess and
+    Shogi, the goal is to trap the king.
+  </p>
+  <h1>Pieces and Mobility</h1>
+  <p>
+    There are 13 unique pieces with different ranges of mobility at different tiers. To see complete gudie visie
+    <a href='https://gungi.picinfiniti.net/views/about.html' target="blank">How to Play</a>.
   </p>
   <h1>Rules of Gameplay</h1>
   <div>Visit the link to the <a
