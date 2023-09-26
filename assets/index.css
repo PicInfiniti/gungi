@@ -929,3 +929,14 @@ nav .sidenav .closebtn {
   font-family: kanji;
   margin-right: 5px
 }
+
+.youtube {
+  display: inline-block; /* Make the anchor tag an inline-block element */
+  vertical-align: middle; /* Align the elements vertically in the middle */
+}
+
+.youtube img {
+  margin-left: 10px;
+  width: 40px;
+  vertical-align: middle; /* Align the image vertically in the middle */
+}
