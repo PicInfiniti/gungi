@@ -12,7 +12,7 @@
   <h1>Pieces and Mobility</h1>
   <p>
     There are 13 unique pieces with different ranges of mobility at different tiers. To see complete gudie visie
-    <a href='https://gungi.picinfiniti.net/views/about.html' target="blank">How to Play</a>.
+    <a href='https://gungi.picinfiniti.net/how_to_play.html' target="blank">How to Play</a>.
   </p>
   <h1>Rules of Gameplay</h1>
   <div>Visit the link to the <a
