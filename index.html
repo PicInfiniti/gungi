@@ -13,24 +13,6 @@
   <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
   <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
   
-  <style>
-    #nav {
-      margin-left: 20px;
-      transition: margin-left .5s;
-    }
-
-    body.landscape {
-      transform-origin: center center;
-      transform: rotate(90deg);
-      /* Adjust other styles as needed */
-      width: 100vh;
-      /* Set the width and height to match the rotated content */
-      height: 100vw;
-      position: absolute;
-      top: 0;
-      left: 0;
-    }
-  </style>
   <script type="module" crossorigin src="/assets/main.js"></script>
   <link rel="modulepreload" crossorigin href="/assets/common.js">
   <link rel="stylesheet" href="/assets/index.css">
@@ -38,20 +20,17 @@
 
 <body>
 
-  <nav>
-    <div id="mySidenav" class="sidenav">
-      <a href="javascript:void(0)" class="closebtn">&times;</a>
-      <label id="new_game">New Game</label>
-      <label id="leave_game">Leave The Game</label>
-      <label id="save">Save</label>
-      <label for="jsonfile" id="load">Load</label>
-      <input hidden id="jsonfile" type="file">
-      <a href="/how_to_play.html" target="_blank">Game Rules</a>
-      <a href="https://www.youtube.com/picinfiniti" class="youtube" target="_blank">How to Play<img
-        src="./assets/youtube.png"></a>
-      <a href="https://picinfiniti.net/" target="_blank">About</a>
-
-    </div>
+  <nav class="sidenav">
+    <a href="javascript:void(0)" class="closebtn">&times;</a>
+    <label id="new_game">New Game</label>
+    <label id="leave_game">Leave The Game</label>
+    <label id="save">Save</label>
+    <label for="jsonfile" id="load">Load</label>
+    <input hidden id="jsonfile" type="file">
+    <a href="/how_to_play.html" target="_blank">Game Rules</a>
+    <a href="https://www.youtube.com/picinfiniti" class="youtube" target="_blank">How to Play<img
+        src="/assets/youtube.png"></a>
+    <a href="https://picinfiniti.net/" target="_blank">About</a>
   </nav>
   <container>
 
